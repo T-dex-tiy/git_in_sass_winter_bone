@@ -1,0 +1,8 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:T-dex-tiy/git_in_sass_winter_bone.git",
+  "author": "T-Dex <dex.m.mills@gmail.com>",
+  "license": "MIT"
+}
