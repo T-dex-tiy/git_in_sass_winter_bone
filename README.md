@@ -7,3 +7,4 @@ with a darker blue from http://www.colourlovers.com/palette/4474367/Shades_of_Bl
 
 
 used http://youngandhungry.co/portfolio as basis for site
+Photos borrowed as place holders
